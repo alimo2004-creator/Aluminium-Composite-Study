@@ -94,7 +94,7 @@ Where:
 > **Key finding:** The composite panel achieved a **150.88% increase in flexural strength** and a **597% improvement in specific flexural strength** — making it highly suitable for high-load, weight-sensitive structural applications.
 
 
-![Honeycomb Core](images/honeycomb-core.jpg)
+![Honeycomb Core](images)
 
 ---
 
