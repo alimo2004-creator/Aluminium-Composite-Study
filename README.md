@@ -92,15 +92,19 @@ Where:
 | Ductility | High | Low (trade-off) | — |
 
 > **Key finding:** The composite panel achieved a **150.88% increase in flexural strength** and a **597% improvement in specific flexural strength** — making it highly suitable for high-load, weight-sensitive structural applications.
+---
 
+## 📸 Project Gallery
 
-![Honeycomb Core](images/honeycomb-sandawich.jpg)
-![Final Composite Panel](images/bent-composit.jpg)
-![Final Composite Panel](images/bent-composit2.jpg)
-![Testing Setup](images/LR-300K.jpg)
-![initial](images/main-sheet.jpg)
+![Testing Machine LR-300K](images/LR-300K)
+![Bent Composite Panel](images/bent-composit)
+![Bent Composite Panel 2](images/bent-composit2)
+![Honeycomb Sandwich Assembly](images/honeyComp-sandawich)
+![Raw Aluminum Sheet](images/main-sheet)
 
 ---
+
+
 
 ## 💡 Key Takeaways
 
@@ -110,6 +114,10 @@ Where:
 - Surface roughening before epoxy bonding is critical to joint strength
 
 ---
+
+## 📄 Full Project Report
+
+[📥 Click here to download the full project report (PDF)](MDP251_Team1_Report.pdf)
 
 ## 📁 Repository Contents
 
