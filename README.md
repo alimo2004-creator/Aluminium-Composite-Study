@@ -114,7 +114,7 @@ Where:
 - Surface roughening before epoxy bonding is critical to joint strength
 
 ---
-
+.
 ## 📄 Full Project Report
 
 [📥 Click here to download the full project report (PDF)](MDP251_Team1_Report.pdf)
