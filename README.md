@@ -117,8 +117,7 @@ Where:
 .
 ## 📄 Full Project Report
 
-[📥 Click here to download the full project report (PDF)](MDP251_Team1_Report.pdf)
-
+[📥 Click here to download the full project report (PDF)](../../raw/main/MDP251_Team1_Report.pdf)
 ## 📁 Repository Contents
 
 ```
